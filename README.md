@@ -12,10 +12,8 @@ Sou Analista de Qualidade de Software e amo jogos.
 
 - 👩‍💻 Trabalho na área de Quality Assurance há quase 3 anos
 - 👩‍💻 Atualmente meu foco está em Automação de testes
-- 👩‍💻 Aprendendo cada vez mais, sobre temas diversos!
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-</div>
+- 👩‍💻 Adoro aprender sobre temas diversos!
+
 
 ---
 
